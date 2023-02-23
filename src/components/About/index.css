@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.img {
+  width: 90px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #6d396b;
+  font-size: 24px;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: center;
+  color: #555555;
+}
